@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadniumkun&label=Profile%20views&color=0e75b6&style=flat" alt="cadniumkun" /> </p>
 
-- 🌱 I’m currently learning **App Development with React native**
+- 🌱 I’m currently learning **App Development with Flutter**
 
 - 🐑 Fun fact **Sheep are fluffy goats**
 
