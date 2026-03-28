@@ -1,27 +1,18 @@
-<h1 align="center">Hi 👋, I'm Nao</h1>
-<h3 align="center">A passionate CS Student</h3>
+# hawo, tis is nao
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cadniumkun&label=Profile%20views&color=0e75b6&style=flat" alt="cadniumkun" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=32&pause=1000&width=435&lines=sheep+are+fluffy+goats;let+it+sink+in" alt="Typing SVG" /></a>
 
-- 🌱 I’m currently learning **App Development with Flutter**
+I’m a **Computer Science student** who builds things, breaks them for the plot, and then fixes them with 27 browser tabs and sheer willpower. 
 
-- 🐑 Fun fact **Sheep are fluffy goats**
+> 🧠 **Status:** Haywire but functional | 🧰 **Mode:** Tinkering | 🎯 **Goal:** Peak productivity
 
-- 🔭 I used to teach python at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB) , a student led coding club.
+---
 
+### the tech i decided to explore
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/oyama.nao.sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oyamanao" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@oyamanao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oyamanao" height="30" width="40" /></a>
-</p>
+- | `Languages `| C++     • Python      • Dart             • TypeScript 
+- | `Frontend  `| React • Next.js     • Flutter          
+- | `Backend   `| Node.js • Express    • MongoDB         
+- | `Hardware  `| STM32 • ESP32 • Embedded Systems 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">  
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oyamanao&show_icons=true&locale=en&layout=compact" alt="oyamanao" /></p>
+---
